@@ -1,0 +1,7 @@
+Oxygen units: ['(%) Percent' 'MG/L']
+Salamanders units: ['Count' 'Relative Abundance (1): <20 (2): 21-50 (3): >50']
+Flow/Rainfall units: ['None' 'Cubic Feet Per Second' 'gal/min' 'Feet per second' 'Feet'
+ '1-2: (Yes; No)']
+Temporal units: ['Minutes']
+Physicals units: ['Sq Ft' '(%) Percent']
+Spatial units: ['Inches' 'Minutes' 'Feet' 'MM']
